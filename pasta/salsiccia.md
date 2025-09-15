@@ -6,7 +6,6 @@
 - pasta
 - salsiccia sausage
 - crushed tomatoes
-- cream
 - onion
 - garlic
 - black pepper
