@@ -9,6 +9,7 @@
 - cream (36% fat)
 - onion
 - garlic
+- black pepper
 
 ## Instructions
 
