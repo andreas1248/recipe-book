@@ -6,7 +6,7 @@
 - pasta
 - salsiccia sausage
 - crushed tomatoes
-- cream
+- cream (36% fat)
 - onion
 - garlic
 
